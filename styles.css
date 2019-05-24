@@ -1,0 +1,14 @@
+.home-content-container {
+    width: 100%;
+    display:flex;
+    flex:1 1;
+    flex-direction: column;
+}
+.home-title {
+    flex-direction: row;
+    align-self: center;
+}
+.home-login-link {
+    flex-direction: row;    
+    align-self: flex-start;
+}
